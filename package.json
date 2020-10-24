@@ -1,0 +1,24 @@
+{
+  "name": "AvailableUnits",
+  "version": "1.0.0",
+  "description": "Shows what units are available from ARE for the provided truck information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffmschaller/AvailableUnits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffmschaller/AvailableUnits/issues"
+  },
+  "homepage": "https://github.com/geoffmschaller/AvailableUnits#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}
